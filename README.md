@@ -1,16 +1,20 @@
-### Hi there 👋
+# Howdy! 👋 🤠
+My name is Tyler Ray Rogers, a first-year Masters student in Economics :chart: from San Antonio, Texas!
 
-<!--
-**TylerRayRogers/TylerRayRogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+More importantly, I'm a loud and proud member of the Fightin' Texas Aggie Class of 2️⃣0️⃣2️⃣0️⃣ from Texas A&M University👍!
+# WHOOP
+In my undergraduate career :mortar_board:, I was a double-major in Political Science 🏛️ and Economics 💹 and also had a minor in Business 💲 ; despite all of that, I still graduated a semester early.
 
-Here are some ideas to get you started:
+I come from a wonderful family 👪 with some fantastic parents who worked hard all their lives and enabled me to be the first in our family to obtain a college degree. I have a twin brother 👨‍👩‍👦‍👦 and a younger sister 👱‍♀️ who is also a current student at A&M.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests are many and varied, but I especially enjoy reading 📚 (my favorite novels are "Lonesome Dove" and "Lord of the Rings"), board and card/domino games 🎲 (I'm pretty good at 42), and all Aggie sporting event, of course 🏈⚾.
+
+I'm using GitHub as a real-time CV of sorts to showcase my coding and data experience to help strengthen my data scientists resume. Feel free to take a look at my profile to get an idea of what's going on! I'm currently primarily an R user, but I've also worked with SAS and Stata in the past. I'm also looking forward to learning new languages like Python to add to my repertoire.
+
+You can reach me by email: tyler.rogers@AggieNetwork.com
+
+I'm currently located in College Station, Texas and am open to work offers.
+
+I will graduate this December 2021.
+
+# Thanks for stopping by & Gig 'em!
