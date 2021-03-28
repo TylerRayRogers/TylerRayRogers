@@ -3,7 +3,7 @@ My name is Tyler Ray Rogers, a first-year Masters student in Economics :chart: f
 
 More importantly, I'm a loud and proud member of the Fightin' Texas Aggie Class of 2️⃣0️⃣2️⃣0️⃣ from Texas A&M University👍!
 # WHOOP
-In my undergraduate career :mortar_board:, I was a double-major in Political Science 🏛️ and Economics 💹 and also had a minor in Business 💲 ; despite all of that, I still graduated a semester early.
+In my undergraduate career :mortar_board:, I was a double-major in Political Science 🏛️ and Economics 💹 and also had a minor in Business 💲. Despite all of that, I still graduated a semester early.
 
 I come from a wonderful family 👪 with some fantastic parents who worked hard all their lives and enabled me to be the first in our family to obtain a college degree. I have a twin brother 👨‍👩‍👦‍👦 and a younger sister 👱‍♀️ who is also a current student at A&M.
 
