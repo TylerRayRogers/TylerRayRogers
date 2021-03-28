@@ -13,6 +13,8 @@ I'm using GitHub as a real-time CV of sorts to showcase my coding and data exper
 
 You can reach me by email: tyler.rogers@AggieNetwork.com
 
+My can find my LinkedIn at www.linkedin.com/in/tyler-ray-rogers
+
 I'm currently located in College Station, Texas and am open to work offers.
 
 I will graduate this December 2021.
