@@ -7,7 +7,7 @@ In my undergraduate career :mortar_board:, I was a double-major in Political Sci
 
 I come from a wonderful family 👪 with some fantastic parents who worked hard all their lives and enabled me to be the first in our family to obtain a college degree. I have a twin brother 👨‍👩‍👦‍👦 and a younger sister 👱‍♀️ who is also a current student at A&M.
 
-My interests are many and varied, but I especially enjoy reading 📚 (my favorite novels are "Lonesome Dove" and "Lord of the Rings"), board and card/domino games 🎲 (I'm pretty good at 42), and all Aggie sporting event, of course 🏈⚾.
+My interests are many and varied, but I especially enjoy reading 📚 (my favorite novels are "Lonesome Dove" and "Lord of the Rings"), board and card/domino games 🎲 (I'm pretty good at 42), and all Aggie sporting events, of course 🏈⚾.
 
 I'm using GitHub as a real-time CV of sorts to showcase my coding and data experience to help strengthen my data scientists resume. Feel free to take a look at my profile to get an idea of what's going on! I'm currently primarily an R user, but I've also worked with SAS and Stata in the past. I'm also looking forward to learning new languages like Python to add to my repertoire.
 
